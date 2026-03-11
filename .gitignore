@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+temp/
+tmp/
+.env
+.venv
+venv/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Don't commit sensitive patent data
+*.csv
+patent_extraction.log
